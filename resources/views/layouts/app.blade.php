@@ -38,10 +38,7 @@
 </head>
 <body>
     <div id="app">
-            <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
+        
     
     @include('inc.navbar')
         @yield('content')
