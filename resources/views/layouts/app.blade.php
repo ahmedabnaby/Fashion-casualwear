@@ -15,6 +15,7 @@
         rel="stylesheet">
 
     <!-- Css Styles -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{asset('violet/img/favicon.png')}}">
     <link rel="stylesheet" href="{{ asset('violet/css/bootstrap.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('violet/css/font-awesome.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('violet/css/nice-select.css') }}" type="text/css">
